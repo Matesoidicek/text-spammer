@@ -1,6 +1,6 @@
 import pyautogui as py
 import webbrowser as web
-import time 
+import time
 
 # message
 message = input("what message do you want to spam?\n")
