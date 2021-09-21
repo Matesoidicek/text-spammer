@@ -24,6 +24,6 @@ for i in range (0, repeats):
     if message != "":
         py.typewrite(message)
         py.press("enter")
-
-time.sleep(delay/1000)
+        time.sleep(delay/1000)
+        
 print("Done")
